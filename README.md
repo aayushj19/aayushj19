@@ -86,7 +86,6 @@ Here are some tools, technologies, and platforms I work with:
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayushj19&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushj19&layout=compact&theme=radical)
 
 ---
