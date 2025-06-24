@@ -21,6 +21,7 @@ Here are some tools, technologies, and platforms I work with:
 #### 🛠️ Backend & APIs  
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 #### 🧠 AI & Programming  
